@@ -1,0 +1,57 @@
+[
+  {
+    "userId": "396334fc-f221-4387-851e-5302bafeac0f",
+    "interest": [
+      {
+        "name": "Placa de Vídeo Zotac NVIDIA GeForce RTX 3060 Ti Twin Edge LHR, 8GB, 14.0 Gbps, GDDR6, DLSS, Ray Tracing - ZT-A30610E-10MLHR",
+        "productClass": "hardware/placa-de vídeo (vga)/placa de vídeo nvidia",
+        "skuId": "166104",
+        "price": "R$ 4.299,90"
+      },
+      {
+        "name": "Monitor LG 23.8 Full HD, IPS, HDMI, VESA, FreeSync, Sem Bordas, Preto - 24MP400-B",
+        "productClass": "computadores/monitores/office/23.8-polegadas",
+        "skuId": "282794",
+        "price": "R$ 999,90"
+      },
+      {
+        "name": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+        "productClass": "hardware/processadores/processador-intel/core i3",
+        "skuId": "129960",
+        "price": "R$ 499,90"
+      },
+      {
+        "name": "Placa Mãe Gigabyte H510M (rev.1.0), Intel LGA1200, ATX, DDR4 - H510M H",
+        "productClass": "hardware/placas-mãe/placa-mãe-intel",
+        "skuId": "188292",
+        "price": "R$ 599,90"
+      },
+      {
+        "name": "PC Gamer Top Concórdia, Processador AMD Ryzen 5-3400G, 16GB, SSD 480GB, RGB, Linux, Preto - 30642",
+        "productClass": "computadores/computadores-gamers/com processador amd",
+        "skuId": "271865",
+        "price": "R$ 3.999,90"
+      }
+    ],
+    "basket": [
+      {
+        "name": "Placa de Vídeo Zotac NVIDIA GeForce RTX 3060 Ti Twin Edge LHR, 8GB, 14.0 Gbps, GDDR6, DLSS, Ray Tracing - ZT-A30610E-10MLHR",
+        "productClass": "hardware/placa-de vídeo (vga)/placa de vídeo nvidia",
+        "skuId": "166104",
+        "price": "R$ 4.299,90"
+      },
+      {
+        "name": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+        "productClass": "hardware/processadores/processador-intel/core i3",
+        "skuId": "129960",
+        "price": "R$ 499,90"
+      },
+      {
+        "name": "Placa Mãe Gigabyte H510M (rev.1.0), Intel LGA1200, ATX, DDR4 - H510M H",
+        "productClass": "hardware/placas-mãe/placa-mãe-intel",
+        "skuId": "188292",
+        "price": "R$ 599,90"
+      }
+    ]
+  }
+]
