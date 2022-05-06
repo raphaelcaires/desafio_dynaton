@@ -16,7 +16,7 @@ setTimeout(() => {(function () {
     var basket = [];
     var users = [];
 
-    if (users.filter( e => e.userId === userId).length <= 0) {
+    if (users.filter(e => e.userId === userId).length <= 0) {
       users = JSON.parse(window.sessionStorage.getItem('userData') || '[]');
     }
 
@@ -35,7 +35,7 @@ setTimeout(() => {(function () {
     interestItem.skuId = skuId;
     interestItem.price = price;
 
-    if (interest.filter( e => e.skuId === window.location.pathname.split('/')[2]).length <= 0) {
+    if (interest.filter(e => e.skuId === window.location.pathname.split('/')[2]).length <= 0) {
       interest.push(interestItem);
     }
 
