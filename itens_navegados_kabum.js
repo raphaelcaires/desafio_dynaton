@@ -49,7 +49,7 @@ setTimeout(() => {(function () {
     basket = JSON.parse(window.sessionStorage.getItem('basketItem') || '[]');
     const lastItemSkuId = interest[interest.length - 1].skuId;
 
-    if (basket.filter( e => e.skuId === window.location.pathname.split('/')[2]).length <= 0) {
+    if (basket.filter(e => e.skuId === window.location.pathname.split('/')[2]).length <= 0) {
       if (window.location.pathname.split('/')[2] == lastItemSkuId) {
         basket.push(interest[interest.length - 1]);
       }
